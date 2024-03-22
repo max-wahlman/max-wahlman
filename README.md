@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @max-wahlman
+- 👀 I’m interested in football
+- 🌱 I’m currently learning GoLang
+- 📫 How to reach me: max.wahlman@hotmail.se
+- ⚡ Fun fact: I'm not good at coding :(
